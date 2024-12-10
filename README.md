@@ -8,9 +8,7 @@ This project implements a multimodal sarcasm detection model using audio, visual
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Model Details](#model-details)
-- [Results](#results)
-- [License](#license)
-
+  
 ## Installation
 
 1. Clone the repository:
